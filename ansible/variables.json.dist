@@ -28,7 +28,7 @@
   "netviz_agent_installer_archive": "",
   "netviz_agent_directory": "/opt/appdynamics/networkvisibility",
   "netviz_agent_systemd_service_name": "appd-netviz-agent",
-  "application_name": "appd-sap-hana-express",
-  "docker_application_systemd_service_name": "sap-hana-express-docker",
+  "application_name": "appd-ubuntu-docker",
+  "docker_application_systemd_service_name": "appd-ubuntu-docker",
   "appdynamics_dir": "/opt/appdynamics"
 }
